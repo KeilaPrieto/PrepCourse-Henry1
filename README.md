@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-este es un rep de prueba del modulo 2 
+este proyecto es una prueba de como crear un rep y clonarlo desde git
